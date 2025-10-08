@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/10/08 12:52:12.586,D:\FILE FIRZA\.PKL\PROJEK PKL MAGANG BBPPMPV\desktoppklbbppmpvboe\g_deskopPenerimaanMagang.groupproj=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2025/10/08 12:52:21.603,D:\FILE FIRZA\.PKL\PROJEK PKL MAGANG BBPPMPV\desktoppklbbppmpvboe\g_desktopPenerimaanMagang.groupproj=D:\FILE FIRZA\.PKL\PROJEK PKL MAGANG BBPPMPV\desktoppklbbppmpvboe\g_deskopPenerimaanMagang.groupproj</Transaction>
+  </Transactions>
+  <Default.Personality>
+    <Projects ActiveProject="C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_deskopPenerimaanMagang.dproj"/>
+  </Default.Personality>
+</BorlandProject>

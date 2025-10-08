@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{69AA89AC-D539-45EB-957D-ADB59F02A18C}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_deskopPenerimaanMagang.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="f_deskopPenerimaanMagang">
+        <MSBuild Projects="C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_deskopPenerimaanMagang.dproj"/>
+    </Target>
+    <Target Name="f_deskopPenerimaanMagang:Clean">
+        <MSBuild Projects="C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_deskopPenerimaanMagang.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="f_deskopPenerimaanMagang:Make">
+        <MSBuild Projects="C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_deskopPenerimaanMagang.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="f_deskopPenerimaanMagang"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="f_deskopPenerimaanMagang:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="f_deskopPenerimaanMagang:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
