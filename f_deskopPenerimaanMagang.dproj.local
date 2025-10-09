@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/10/08 12:28:29.000.572,=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/10/08 12:43:04.000.050,C:\Users\Killa\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_landingPage.pas</Transaction>
+    <Transaction>2025/10/08 12:43:04.000.050,C:\Users\Killa\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_landingPage.dfm</Transaction>
+    <Transaction>2025/10/08 12:51:12.000.951,C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_landingPage.dfm=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_desktopPenerimaanMagang.dfm</Transaction>
+    <Transaction>2025/10/08 12:51:12.000.951,C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_landingPage.pas=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_desktopPenerimaanMagang.pas</Transaction>
+    <Transaction>2025/10/08 12:51:26.000.034,C:\Users\Killa\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\f_deskopPenerimaanMagang.dproj</Transaction>
+    <Transaction>2025/10/08 12:55:04.000.754,=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2025/10/08 12:55:25.000.189,C:\Users\Killa\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\myDataModule.pas</Transaction>
+    <Transaction>2025/10/08 12:55:25.000.189,C:\Users\Killa\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Killa\Documents\Embarcadero\Studio\Projects\myDataModule.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

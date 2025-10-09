@@ -1,0 +1,16 @@
+﻿[cxPageControl1]
+Coordinates=10,56,106,36
+Visible=True
+
+[dxRibbon1]
+Coordinates=110,10,76,36
+
+[cxTabSheet2]
+Coordinates=10,10,90,36
+
+[dxRibbon1Tab1]
+Coordinates=253,56,105,36
+
+[]
+Coordinates=196,10,90,36
+
